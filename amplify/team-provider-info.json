@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-leaguestandingsapp-dev-141055-authRole",
+      "UnauthRoleArn": "arn:aws:iam::160635452981:role/amplify-leaguestandingsapp-dev-141055-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::160635452981:role/amplify-leaguestandingsapp-dev-141055-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-leaguestandingsapp-dev-141055-deployment",
+      "UnauthRoleName": "amplify-leaguestandingsapp-dev-141055-unauthRole",
+      "StackName": "amplify-leaguestandingsapp-dev-141055",
+      "StackId": "arn:aws:cloudformation:eu-west-2:160635452981:stack/amplify-leaguestandingsapp-dev-141055/45290de0-8a4f-11eb-b1f9-06441cd22df0",
+      "AmplifyAppId": "dax68sszx1niv"
+    },
+    "categories": {
+      "auth": {
+        "leaguestandingsapp3344ad30": {}
+      }
+    }
+  }
+}
